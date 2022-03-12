@@ -1,0 +1,33 @@
+body {
+    font-family: 'Special Elite',cursive;
+    background: aqua;
+}
+.header_div {
+    background-color: aquamarine;
+    color:rgb(252, 143, 0);
+}
+.header_div p{
+    font-family: 'Roboto';
+    color: blue;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Roboto';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy__right_footer {
+    position: fixed;
+    color: coral;
+    background-color: crimson;
+    font-size: 18px;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
